@@ -1,0 +1,48 @@
+{
+  "name": "whatsapp-roblox-bot",
+  "version": "2.0.0",
+  "description": "Bot WhatsApp untuk komunitas Roblox mabar dengan fitur welcome, goodbye, anti-link, dan command system",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "roblox",
+    "mabar",
+    "gaming",
+    "community",
+    "whatsapp-web.js",
+    "puppeteer"
+  ],
+  "author": "kuzengacor-creator",
+  "license": "MIT",
+  "dependencies": {
+    "whatsapp-web.js": "^1.21.0",
+    "qrcode-terminal": "^0.12.0",
+    "puppeteer": "^21.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kuzengacor-creator/clavnnz.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kuzengacor-creator/clavnnz/issues"
+  },
+  "homepage": "https://github.com/kuzengacor-creator/clavnnz#readme",
+  "os": [
+    "linux",
+    "darwin",
+    "win32"
+  ]
+}
