@@ -2,9 +2,9 @@
   "name": "whatsapp-roblox-bot",
   "version": "2.0.0",
   "description": "Bot WhatsApp untuk komunitas Roblox mabar dengan fitur welcome, goodbye, anti-link, dan command system",
-  "main": "bot.js",
+  "main": "botwa.js",
   "scripts": {
-    "start": "node bot.js",
+    "start": "node botwa.js",
     "dev": "nodemon bot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
