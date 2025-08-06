@@ -2,16 +2,26 @@
 
 Bot WhatsApp untuk komunitas Roblox mabar dengan fitur welcome, goodbye, anti-link, dan command system.
 
-## 🚀 Instalasi di Termux
+## Instalasi di Termux
 
-```bash
-# Clone repository
-git clone https://github.com/kuzengacor-creator/clavnnz.git
-cd clavnnz
+Jalankan perintah berikut di Termux:git clone https://github.com/kuzengacor-creator/clavnnz.git cd clavnnz chmod +x install.sh ./install.sh npm start## Fitur
 
-# Install dependencies
-chmod +x install.sh
-./install.sh
+- Welcome & Goodbye message
+- Anti-link protection  
+- Command system
+- Roblox community management
+- Auto reply
 
-# Jalankan bot
-npm start✨ FiturWelcome & Goodbye messageAnti-link protectionCommand systemRoblox community managementAuto reply📱 RequirementsNode.js v16+NPM v8+Termux (Android)🎮 Khusus Komunitas Roblox MabarBot ini dibuat khusus untuk mengelola grup WhatsApp komunitas gaming Roblox.📝 LicenseMIT License - bebas digunakan dan dimodifikasi.
+## Requirements
+
+- Node.js v16+
+- NPM v8+
+- Termux (Android)
+
+## Khusus Komunitas Roblox Mabar
+
+Bot ini dibuat khusus untuk mengelola grup WhatsApp komunitas gaming Roblox.
+
+## License
+
+MIT License - bebas digunakan dan dimodifikasi.
